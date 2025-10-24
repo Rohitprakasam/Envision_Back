@@ -1,0 +1,4 @@
+# Ignore environment variables file
+.env
+
+# Add other files and directories to ignore below
